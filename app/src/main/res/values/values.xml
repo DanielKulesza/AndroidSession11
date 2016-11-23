@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">Audio</string>
+	<string-array name="mp3Titles">
+		<item>Happy Birthday</item>
+		<item>Beer Time</item>
+	</string-array>
+	<string-array name="mp3Urls">
+		<item>http://www.dimitargenov.com/happy_birthday.mp3</item>
+		<item>http://www.dimitargenov.com/beer_time.mp3</item>
+	</string-array>
+</resources>

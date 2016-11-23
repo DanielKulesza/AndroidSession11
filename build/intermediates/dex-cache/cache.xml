@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6cc1a1163825924201c2ce8167a6b93c2e040121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_9495b627bc408dc44d908905d6c13daca20c2ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bf553af7664b37c1e5500b5a9a9c5c677e435acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_91cff0116e239b7c88999d60e7ed50493cdc0284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_097a042ff05e71b828e725c6c3427549d8fc4cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1a066daccc4003427615cb71b39ef75a93785094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_52df9701657cd0fd1837653d848071fe093e3b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_f7c98a193a2701704f56c785aa8803bfa7420bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_3ff9ef22f9385d9b6fd41b66d9ce0a91a01a7d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_1676e1080cbd7393c685e56f99964a97c3a33764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_f10418f5f0b83e0675b6708429b90854c8b81590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b8c0d89fb0a8c13dae750a0665ec81976470f9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5d1dd5d177f97823ce0105a619c42f48e143847f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_2664d1b609287fda35eafd5ac765f06e3e7f3369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Jurgis\Downloads\11-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_2bf609b7562a56d7a329a98ee86ce7d156b0b974.jar" />
+    </item>
+
+</items>
